@@ -1,0 +1,23 @@
+주소 : https://www.credit.co.kr/
+작업내용 : 
+메인
+사장님 신용 관리
+공지사항 > 고객센터
+
+<작업 예정 페이지 추가>.11월 22일
+
+로그인, 신용회복 케어 =>27일까지 완료 예정 => 완료
+
+회원가입, 신용보고서 =>12월2일까지 완료 예정=>완료
+추가 제작 페이지
+
+후보2:https://u2clab.com/
+https://www.amcharts.com/
+https://www.chartjs.org/docs/latest/samples/other-charts/doughnut.html
+
+
+
+머테리얼 디자인
+플랫 디자인
+
+작업스케줄 : 메인페이지 작업 (2024-11-18 월)
